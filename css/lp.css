@@ -1,10 +1,5 @@
 body {
-  /* background: #000007 url("img/Suntory_Background.jpg") no-repeat fixed center; */
-  /* //background: #000007 no-repeat fixed center; */
-  background-color: black !important;
+  background: #000007 url("/img/Suntory_Background.jpg") no-repeat fixed center;
+  //background: #000007 no-repeat fixed center;
   font-family: 'Noto Serif', 'Open Sans', serif !important;
 }
-
-/* .top_img {
-  background: url("/img/lp1.png") no-repeat fixed center;
-} */
