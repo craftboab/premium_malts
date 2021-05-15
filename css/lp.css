@@ -3,3 +3,38 @@ body {
   //background: #000007 no-repeat fixed center;
   font-family: 'Noto Serif', 'Open Sans', serif !important;
 }
+
+.img {
+  width: 45% !important;
+  display:block;
+  margin:auto !important;
+}
+
+.content_main {
+  width:45% !important;
+}
+
+.content_top {
+  font-size: 28px;
+  color:rgb(242, 247, 247)
+}
+
+.content {
+  font-size: 18px;
+  color:rgb(242, 247, 247)
+}
+
+@media (max-width:991px){
+    .img {
+      width: 90% !important;
+      display:block;
+      margin:auto !important;
+  }
+    .content_main {
+      width:100% !important;
+  }
+    .content {
+      font-size: 18px;
+      color:rgb(242, 247, 247)
+  }
+}
